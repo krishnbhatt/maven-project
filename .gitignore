@@ -20,3 +20,4 @@ src/main/api/.repository
 
 # maven backup file
 pom.xml.releaseBackup
+derby.log
